@@ -36,9 +36,3 @@ O sistema permite registrar dados da partida em tempo real, incluindo:
 *(adicione aqui imagens do app caso disponíveis)*
 
 ---
-
-## 📜 Licença
-Este projeto é de uso restrito e não possui código aberto.  
-Distribuição apenas para fins acadêmicos e de demonstração.
-
----
