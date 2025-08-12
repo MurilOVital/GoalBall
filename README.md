@@ -31,8 +31,3 @@ O sistema permite registrar dados da partida em tempo real, incluindo:
 - Relatórios para análise de desempenho da equipe
 
 ---
-
-## 📸 Capturas de tela
-*(adicione aqui imagens do app caso disponíveis)*
-
----
