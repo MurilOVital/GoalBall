@@ -1,18 +1,44 @@
-# Fraud Detection - Machine Learning
+# 🎯 GoalBall Match Assistant
 
-Projeto desenvolvido para a disciplina de **Inteligência Artificial**.  
-O objetivo foi criar um sistema para detecção de fraudes usando diferentes modelos de Machine Learning.
+Aplicativo desenvolvido em parceria com o **Instituto Roberto Miranda** para auxiliar técnicos de **Goalball**, esporte voltado para pessoas com deficiência visual total ou parcial.
 
-## 🚀 Tecnologias
-- Python
-- Scikit-learn
-- XGBoost
+O sistema permite registrar dados da partida em tempo real, incluindo:
+- Quantidade de gols
+- Direção dos arremessos
+- Parte do corpo utilizada na defesa
+- Registro de estatísticas e histórico de jogos
 
-## 📌 Modelos Utilizados
-- Random Forest
-- XGBoost
-- Regressão Logística
-- Random Forest + Isolation Forest
+> ⚠️ Código-fonte não disponível neste repositório. Apenas vídeo de demonstração e versão compilada do aplicativo.
 
-## 🎯 Objetivo
-Comparar a performance de diferentes algoritmos para detecção de fraudes e selecionar o mais eficiente.
+---
+
+## 📹 Demonstração
+[![Assista no YouTube](https://img.youtube.com/vi/86jzWJyz_84/0.jpg)](https://www.youtube.com/watch?v=86jzWJyz_84)
+
+---
+
+## 🛠 Tecnologias utilizadas
+- **Java** – Lógica principal
+- **Android Studio** – Ambiente de desenvolvimento
+- **SQLite** – Armazenamento local de partidas
+
+---
+
+## 📂 Funcionalidades
+- Registro em tempo real de jogadas
+- Banco de dados local para histórico de partidas
+- Interface simples e adaptada ao contexto do esporte
+- Relatórios para análise de desempenho da equipe
+
+---
+
+## 📸 Capturas de tela
+*(adicione aqui imagens do app caso disponíveis)*
+
+---
+
+## 📜 Licença
+Este projeto é de uso restrito e não possui código aberto.  
+Distribuição apenas para fins acadêmicos e de demonstração.
+
+---
